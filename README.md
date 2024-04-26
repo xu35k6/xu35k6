@@ -17,7 +17,7 @@
 
 <h3 align="left">Projects I've Contributed To:</h3>
 <p align="left">
-  - <strong>Transportation Query System:</strong> A comprehensive solution for querying public transportation options, enhancing user experience through integration of multiple data sources.
+  - <strong>Transportation Query System:</strong> A comprehensive solution for querying public transportation options, enhancing user experience through integration of multiple data sources.<br>
   - <strong>Line Bot Development:</strong> Developed Line bots tailored for educational, food service, and transportation information access, facilitating efficient communication and operations.
 </p>
 
