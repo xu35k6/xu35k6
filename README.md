@@ -13,9 +13,9 @@
 
 <h3 align="left">Projects I've Contributed To:</h3>
 <p align="left">
+  - <strong>Course Selection Assistant Line Bot for Chung Yuan Christian University:</strong> Developed a Line bot that aids in course selection, currently serving over 6,000 users at the university.<br>
   - <strong>Transportation Query System:</strong> A comprehensive solution for querying public transportation options, enhancing user experience through integration of multiple data sources.<br>
-  - <strong>Graduation Project LINE Bot:</strong> Developed Line bots tailored for educational, food service, and transportation information access, facilitating efficient communication and operations. Specifically responsible for the development of transportation and library search features.<br>
-  - <strong>Course Selection Assistant Line Bot for Chung Yuan Christian University:</strong> Developed a Line bot that aids in course selection, currently serving over 6,000 users at the university.
+  - <strong>Graduation Project LINE Bot:</strong> Developed Line bots tailored for educational, food service, and transportation information access, facilitating efficient communication and operations. Specifically responsible for the development of transportation and library search features.
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=xu35k6&show_icons=true&locale=en&layout=compact" alt="xu35k6" /></p>
