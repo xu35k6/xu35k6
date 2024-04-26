@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm CHEWEI</h1>
 <h3 align="center">Studying in the Undergraduate Program in Applied Artificial Intelligence at Chung Yuan Christian University</h3>
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
