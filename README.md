@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm CHEWEI</h1>
 <h3 align="center">Studying in the Undergraduate Program in Applied Artificial Intelligence at Chung Yuan Christian University</h3>
 
-<p align="left">
-  A passionate undergraduate student focused on leveraging artificial intelligence to solve real-world problems. 
-</p>
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
@@ -18,7 +14,8 @@
 <h3 align="left">Projects I've Contributed To:</h3>
 <p align="left">
   - <strong>Transportation Query System:</strong> A comprehensive solution for querying public transportation options, enhancing user experience through integration of multiple data sources.<br>
-  - <strong>Line Bot Development:</strong> Developed Line bots tailored for educational, food service, and transportation information access, facilitating efficient communication and operations.
+  - <strong>Line Bot Development:</strong> Developed Line bots tailored for educational, food service, and transportation information access, facilitating efficient communication and operations.<br>
+  - <strong>Course Selection Assistant Line Bot for Chung Yuan Christian University:</strong> Developed a Line bot that aids in course selection, currently serving over 6,000 users at the university.
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=xu35k6&show_icons=true&locale=en&layout=compact" alt="xu35k6" /></p>
